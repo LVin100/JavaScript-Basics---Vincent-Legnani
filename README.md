@@ -1,2 +1,2 @@
-# JavaScript-Basics---Vincent-Legnani
+# JavaScript-Basics-Vincent-Legnani
  

@@ -1,0 +1,45 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    width: 100%;
+    height: 100%;
+}
+body {
+    background: linear-gradient(to left, rgb(18, 18, 211), rgb(45, 147, 210));
+    font-size: 2rem;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+button {
+    cursor:pointer;
+    background-color: rgba(0, 255, 255, 0.75);
+    border:none;
+    border-radius: 50%;
+    font-size: 2rem;
+    width: 100px;
+    height: 100px;
+}
+
+button:hover {
+    background-color: rgba(0, 255, 255, 0.9);
+}
+
+#counter-label {
+    background-color: aquamarine;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 250px;
+    font-size: 4rem;
+}

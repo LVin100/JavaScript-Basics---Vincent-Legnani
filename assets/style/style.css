@@ -29,9 +29,7 @@ button {
     width: 100px;
     height: 100px;
 }
-.disabled {
-    background-color: rgba(72, 168, 168, 0.75);
-}
+
 button:hover {
     background-color: rgba(0, 255, 255, 0.9);
 }
@@ -44,8 +42,4 @@ button:hover {
     text-align: center;
     line-height: 250px;
     font-size: 4rem;
-}
-
-.disabled {
-    background-color: rgba(72, 168, 168, 0.75);
 }
